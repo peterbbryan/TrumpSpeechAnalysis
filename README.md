@@ -1,4 +1,4 @@
-# TrumpSpeechAnalysis
+# Trump Speech Analysis
 Various and sundry natural language assessments of Donald Trump's speech patterns
 
 ![alt tag](http://www.capitolhillblue.com/wp-content/uploads/2015/12/122215donaldtrump.jpg)
