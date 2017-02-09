@@ -75,3 +75,5 @@ http://www.ugent.be/pp/experimentele-psychologie/en/research/documents/subtlexus
 https://raw.githubusercontent.com/samim23/obama-rnn/master/input.txt
 
 http://crr.ugent.be/archives/806
+
+https://github.com/jsvine/markovify
