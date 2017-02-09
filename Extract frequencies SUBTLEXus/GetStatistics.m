@@ -40,6 +40,7 @@ unique_tokens = unique_tokens(difference > 0);
 difference = difference(difference > 0);
 bar(log(difference+1),'FaceColor',[50 55 55]./100,'EdgeColor',[50 55 55]./100);
 set(gca,'xtick',1:numel(unique_tokens));
+xlim([1 numel(unique_tokens)]);
 set(gca,'xticklabel',unique_tokens);
 xtickangle(45);
 
