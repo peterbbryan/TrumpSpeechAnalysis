@@ -12,6 +12,9 @@ Various and sundry natural language assessments of Donald Trump's speech pattern
 # Trump versus Obama age of word acquisition distribution
 ![alt tag](https://github.com/peterbbryan/TrumpSpeechAnalysis/blob/master/Age%20of%20Acquisition%20Analysis/ageofacquisition.jpg)
 
+# Some stats on polarity and subjectivity
+![alt tag](https://github.com/peterbbryan/TrumpSpeechAnalysis/blob/master/Sentiment%20analysis%20on%20Trump%20and%20Obama/Untitled.001.jpeg)
+
 # Special thanks
 https://github.com/ryanmcdermott/trump-speeches/blob/master/speeches.txt
 
