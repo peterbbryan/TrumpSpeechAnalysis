@@ -6,6 +6,9 @@ Various and sundry natural language assessments of Donald Trump's speech pattern
 # Trump word use above the SUBTLEXus frequencies
 ![alt tag](https://github.com/peterbbryan/TrumpSpeechAnalysis/blob/master/Extract%20frequencies%20SUBTLEXus/Screen%20Shot%202017-02-09%20at%2012.29.36%20AM.png)
 
+# Trump word use under the SUBTLEXus frequencies (some non-word artifacts from SUBTLEXus)
+![alt tag](https://github.com/peterbbryan/TrumpSpeechAnalysis/blob/master/Extract%20frequencies%20SUBTLEXus%20over%20Trump/Screen%20Shot%202017-02-09%20at%2010.39.12%20PM.png)
+
 # Trump words used at frequencies greater than President Obama
 ![alt tag](https://github.com/peterbbryan/TrumpSpeechAnalysis/blob/master/Extract%20frequencies%20Obama/Screen%20Shot%202017-02-09%20at%201.57.34%20AM.png)
 
