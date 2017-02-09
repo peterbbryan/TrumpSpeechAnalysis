@@ -1,5 +1,5 @@
 # Trump Speech Analysis
-Various and sundry natural language assessments of Donald Trump's speech patterns
+Various and sundry natural language assessments of Donald Trump's speech patterns. Not intended to be consistent or complete: just some fun comparisons between corpora. Not appropriate for scientific application.
 
 ![alt tag](http://www.capitolhillblue.com/wp-content/uploads/2015/12/122215donaldtrump.jpg)
 
