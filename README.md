@@ -10,3 +10,5 @@ Various and sundry natural language assessments of Donald Trump's speech pattern
 https://github.com/ryanmcdermott/trump-speeches/blob/master/speeches.txt
 
 http://www.ugent.be/pp/experimentele-psychologie/en/research/documents/subtlexus
+
+https://raw.githubusercontent.com/samim23/obama-rnn/master/input.txt
