@@ -38,11 +38,17 @@ unique_tokens = unique_tokens(order);
 
 unique_tokens = unique_tokens(difference > 0);
 difference = difference(difference > 0);
-
-bar(log(difference+1));
-set(gca,'xtick',0:numel(unique_tokens));
+bar(log(difference+1),'FaceColor',[50 55 55]./100,'EdgeColor',[50 55 55]./100);
+set(gca,'xtick',1:numel(unique_tokens));
 set(gca,'xticklabel',unique_tokens);
-ax.XTickLabelRotation=45;
+xtickangle(45);
+
+
+title('Words used more frequently by Trump than SUBTLEXus (log space)')
+ylabel('Z-score frequency (log)');
+xlabel('Word');
+
+
 
 %unique_tokens = [unique_tokens(1:20) unique_tokens(end-19:end)];
 %difference = [difference(1:20) difference(end-19:end)];
