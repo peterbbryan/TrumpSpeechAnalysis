@@ -5,25 +5,35 @@ Various and sundry natural language assessments of Donald Trump's speech pattern
 
 # Trump text complexity using textstat (https://pypi.python.org/pypi/textstat/)
   
-  Flesch reading ease (see table): 86.71
+  Flesch reading ease (see table on textstat page): 86.71
+  
   SMOG index (years of education needed to understand a piece of writing): 3.1
+  
   Grade level based on the Flesch-Kincaid Grade Formula: 3.7
+  
   Grade level based on the Coleman-Liau Index: 7.81
+  
   Grade level based on automated Readability Index: 5.3
+  
   Grade level based on the Gunning Fog: 6.0
 
-  Average grade level based on preceding tests (and some other stats included by the authors): 3th and 4th grade
+  **Average grade level based on preceding tests (and some other stats included by the authors): 3th and 4th grade**
 
 # Obama text complexity using textstat (https://pypi.python.org/pypi/textstat/)
 
-  Flesch reading ease (see table): 61.67
+  Flesch reading ease (see table on textstat page): 61.67
+  
   SMOG index (years of education needed to understand a piece of writing): 3.1
+  
   Grade level based on the Flesch-Kincaid Grade Formula: 9.1
+  
   Grade level based on the Coleman-Liau Index: 10.56
+  
   Grade level based on automated Readability Index: 10.7
+  
   Grade level based on the Gunning Fog: 9.2
 
-  Average grade level based on preceding tests (and some other stats included by the authors): 10th and 11th grade
+  **Average grade level based on preceding tests (and some other stats included by the authors): 10th and 11th grade**
 
 # Trump sample Markov speech
 That's where human beings to create jobs here in Washington.
