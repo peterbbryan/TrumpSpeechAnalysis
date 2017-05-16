@@ -3,6 +3,14 @@ Various and sundry natural language assessments of Donald Trump's speech pattern
 
 ![alt tag](http://www.capitolhillblue.com/wp-content/uploads/2015/12/122215donaldtrump.jpg)
 
+# Fun things I should do (feel free to add!)
+  
+  Tune up the Markov model (preferably with a larger corpus) and adjust the lookback to produce more reasonable sentences/ less straight up phrase replication.
+  
+  Clean up non-words in Obama corpus.
+  
+  Use a better metric than z-score frequency in the breakdowns and exclude words above a certain frequency in the general English corpus/ words that are used purely for syntactic structure in English and are unlikely to be very funny (the main goal of the entire enterprise).
+
 # Trump text complexity using textstat (https://pypi.python.org/pypi/textstat/)
   
   Flesch reading ease (see table on textstat page): 86.71
